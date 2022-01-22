@@ -1,3 +1,3 @@
 # Portfolio
 
-Documenting my journey as web developer
+Documenting my journey as full-stack web developer
